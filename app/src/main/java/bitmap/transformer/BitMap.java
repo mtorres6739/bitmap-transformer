@@ -30,7 +30,7 @@ public class BitMap {
 
     // create instance of method
 
-    public void write(String writePath) throws IOException {
+    public void write() throws IOException {
         File file = new File(writePath);
         ImageIO.write(this.pixelImage, "bmp", file);
     }
