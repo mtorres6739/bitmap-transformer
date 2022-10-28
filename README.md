@@ -1,6 +1,9 @@
 # bitmap-transformer
 bitmap-transformer
 
+## Transforms
+- Supports transforming bmp image to grayscale
+
 ## Reference
 - [Create a BitMap in Java](https://www.delftstack.com/howto/java/create-a-bitmap-image-in-java/)
 - [YouTube: Java Image Processing Tutorial](https://www.youtube.com/watch?v=CBNyxH_NSDs)
